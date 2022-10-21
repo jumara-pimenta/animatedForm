@@ -9,3 +9,8 @@
 - [x] Adicionar um efeito diferente de timing para a saída do formulário
 - [x] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [x] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
+
+### Site
+
+Para visualizar o site <a href="https://form-animated.vercel.app/" target="_blank">clique aqui<a/>.
+
